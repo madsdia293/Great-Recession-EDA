@@ -1,4 +1,4 @@
-# Great-Recession-EDA
+# Great Recession EDA
 
 ## Overview
 
@@ -46,11 +46,11 @@ To run the project on your local machine:
 
 ### Clone the repository:
 
-git clone https://github.com/your-username/great-recession-finance-data-analysis.git
+git clone https://github.com/your-username/Great-Recession-EDA.git
 
 ### Navigate to the project directory:
 
-cd great-recession-finance-data-analysis
+cd Great-Recession-EDA
 
 ### Install the required Python libraries:
 
@@ -60,8 +60,5 @@ pip install -r requirements.txt
 
 jupyter notebook
 
-### Alternatively, you can run the Python script directly:
-
-python great_recession_finance_analysis.py
 
 ### Follow the code and comments in the notebook or script to understand the data analysis process.
