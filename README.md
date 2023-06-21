@@ -46,7 +46,7 @@ To run the project on your local machine:
 
 ### Clone the repository:
 
-git clone https://github.com/your-username/Great-Recession-EDA.git
+git clone https://github.com/madsdia293/Great-Recession-EDA.git
 
 ### Navigate to the project directory:
 
