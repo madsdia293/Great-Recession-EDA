@@ -38,7 +38,7 @@ To run this project locally, you need the following requirements:
 - Jupyter Notebook or any Python IDE
 - Required Python libraries: pandas, numpy, matplotlib, seaborn, plotly, cufflinks, yfinance, pandas_datareader
 
-### NOTE: You will need to run the project locally in order to use the interactive plots! See below:
+### NOTE: You will need to run the project locally in order to use the interactive plots!
 
 ## Usage
 
