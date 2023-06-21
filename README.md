@@ -30,3 +30,38 @@ The Great Recession Finance Data Analysis Project is an exploratory data analysi
 - Conclusion
 
 Each section of the project contains code snippets and visualizations to demonstrate the data analysis process.
+
+## Requirements
+To run this project locally, you need the following requirements:
+
+- Python 3.x
+- Jupyter Notebook or any Python IDE
+- Required Python libraries: pandas, numpy, matplotlib, seaborn, plotly, cufflinks, yfinance, pandas_datareader
+
+### NOTE: You will need to run the project locally in order to use the interactive plots! See below:
+
+## Usage
+
+To run the project on your local machine:
+
+### Clone the repository:
+
+git clone https://github.com/your-username/great-recession-finance-data-analysis.git
+
+### Navigate to the project directory:
+
+cd great-recession-finance-data-analysis
+
+### Install the required Python libraries:
+
+pip install -r requirements.txt
+
+### Open the Jupyter Notebook or your preferred Python IDE to explore the project:
+
+jupyter notebook
+
+### Alternatively, you can run the Python script directly:
+
+python great_recession_finance_analysis.py
+
+### Follow the code and comments in the notebook or script to understand the data analysis process.
